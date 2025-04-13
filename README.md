@@ -3,7 +3,7 @@ A fullstack web application that allows administrators to manage and update the 
 
 Built with:
 
-Backend: Node.js, Express, MongoDB (CommonJS syntax, no "type": "module")
+Backend: Node.js, Express, MongoDB
 
 Frontend: Create React App + Tailwind CSS
 
